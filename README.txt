@@ -5,6 +5,6 @@ pyswip version:
 pip install git+https://github.com/ML-KULeuven/pyswip
 
 Set-ExecutionPolicy Unrestricted -Scope Process
-python3 -m venv myenv
+python3 -m venv venv
 myenv\Scripts\activate
 uvicorn main:app --reload
