@@ -52,12 +52,12 @@ diseno(colonial).
 
 cocina(americana).
 cocina(galera).
-cocina(en linea).
+cocina(linea).
 cocina(isla).
 cocina(paralela).
 cocina(u).
 cocina(lineal).
-cocina(en angulo).
+cocina(angulo).
 
 metros(100).
 metros(150).
@@ -124,12 +124,12 @@ costo(colonial, 2300).
 
 costo(americana, 3000).
 costo(galera, 2500).
-costo(en linea, 2000).
+costo(linea, 2000).
 costo(isla, 3500).
 costo(paralela, 2800).
 costo(u, 3200).
 costo(lineal, 2300).
-costo(en angulo, 2700).
+costo(angulo, 2700).
 
 costo(100, 5000).
 costo(150, 7500).
